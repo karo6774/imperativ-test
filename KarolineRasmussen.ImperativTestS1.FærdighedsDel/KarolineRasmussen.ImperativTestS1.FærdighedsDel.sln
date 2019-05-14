@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg1", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg1\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg1.csproj", "{AD699256-783C-4B07-9540-7443A56B4100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg2", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg2\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg2.csproj", "{C23006E7-DF2B-4511-AED0-4B99945112E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg3", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg3\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg3.csproj", "{BBA25011-EA69-422C-A96B-7FE094E1EC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg4", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg4\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg4.csproj", "{B887B2E6-A43D-4C24-BA6B-307C393702D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg5", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg5\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg5.csproj", "{4B7D3AF2-EE58-4581-BD86-8490250AF028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg6", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg6\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg6.csproj", "{4B5A3A98-49C5-49DD-8BD3-A611C34FA132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg7", "KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg7\KarolineRasmussen.ImperativTestS1.FærdighedsDel.Opg7.csproj", "{FBFC97C6-40EC-43FE-8F5A-865BBE8451C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KarolineRasmussen.ImperativTestS1.KompetenceDel", "KarolineRasmussen.ImperativTestS1.KompetenceDel\KarolineRasmussen.ImperativTestS1.KompetenceDel.csproj", "{15504C3A-8FA8-4BF9-A109-4F7B8F486E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD699256-783C-4B07-9540-7443A56B4100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD699256-783C-4B07-9540-7443A56B4100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD699256-783C-4B07-9540-7443A56B4100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD699256-783C-4B07-9540-7443A56B4100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C23006E7-DF2B-4511-AED0-4B99945112E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C23006E7-DF2B-4511-AED0-4B99945112E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C23006E7-DF2B-4511-AED0-4B99945112E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C23006E7-DF2B-4511-AED0-4B99945112E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA25011-EA69-422C-A96B-7FE094E1EC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA25011-EA69-422C-A96B-7FE094E1EC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA25011-EA69-422C-A96B-7FE094E1EC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA25011-EA69-422C-A96B-7FE094E1EC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B887B2E6-A43D-4C24-BA6B-307C393702D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B887B2E6-A43D-4C24-BA6B-307C393702D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B887B2E6-A43D-4C24-BA6B-307C393702D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B887B2E6-A43D-4C24-BA6B-307C393702D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7D3AF2-EE58-4581-BD86-8490250AF028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7D3AF2-EE58-4581-BD86-8490250AF028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7D3AF2-EE58-4581-BD86-8490250AF028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B7D3AF2-EE58-4581-BD86-8490250AF028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5A3A98-49C5-49DD-8BD3-A611C34FA132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5A3A98-49C5-49DD-8BD3-A611C34FA132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5A3A98-49C5-49DD-8BD3-A611C34FA132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5A3A98-49C5-49DD-8BD3-A611C34FA132}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFC97C6-40EC-43FE-8F5A-865BBE8451C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFC97C6-40EC-43FE-8F5A-865BBE8451C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFC97C6-40EC-43FE-8F5A-865BBE8451C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFC97C6-40EC-43FE-8F5A-865BBE8451C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15504C3A-8FA8-4BF9-A109-4F7B8F486E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15504C3A-8FA8-4BF9-A109-4F7B8F486E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15504C3A-8FA8-4BF9-A109-4F7B8F486E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15504C3A-8FA8-4BF9-A109-4F7B8F486E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
